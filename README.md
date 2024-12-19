@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Dhruv...
-- 👀 I’m interested in coding, problem solving and learning new technologies.
-- 🌱 I’m currently learning: Web Development + doing DSA + AI/ML
-- 💞️ I’m looking to collaborate on projects related to AI, Data Science, Web Dev and open-source contributions etc.
-- 📫 You can reach me at: linkedin.com/in/dhruv-siwach-474155287
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love coding and problem solving!!!
+const dhruv = {
+    pronouns: "He/Him",
+    code: ["Python", "C", "HTML", "CSS", "JavaScript (beginner)"],
+    askMeAbout: ["AI", "Machine Learning", "Web Development", "Problem-Solving", "Tech Trends"],
+    technologies: {
+        databases: ["SQL", "MongoDB"],
+        other: ["Linux", "OOP Concepts"],
+    },
+    currentFocus: "Exploring new technologies, enhancing my coding skills, and building impactful projects while diving deeper into AI and ML.",
+    funFact: "Convincing AI not to take over the world!"
+};
