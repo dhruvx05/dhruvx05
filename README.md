@@ -1,3 +1,7 @@
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F752B7&width=435&lines=Hey+there!+I'm+Dhruv+Siwach;Coding+Enthusiast+and+Tech+Explorer;Passionate+about+AI+and+Web+Development)](https://git.io/typing-svg)
+
+```javascript
 const dhruv = {
     pronouns: "He/Him",
     code: ["Python", "C", "HTML", "CSS", "JavaScript (beginner)"],
