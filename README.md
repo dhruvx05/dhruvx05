@@ -1,10 +1,8 @@
 <p align="center">
   <a href="https://github.com/dhruvx05">
-    <img src="[URL_TO_YOUR_CUSTOM_IMAGE](https://img.shields.io/badge/dhruv?style=flat&logoColor=green
-)" alt="D H R U V" />
+    <img src="https://img.shields.io/badge/D%20H%20R%20U%20V-%2300FF00?style=flat&logo=github&logoColor=white" alt="D H R U V" />
   </a>
 </p>
-
 
 
 <p align="center">
