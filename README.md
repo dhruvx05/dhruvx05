@@ -12,7 +12,6 @@
 
 
 
-
 ```javascript
 const dhruv = {
     pronouns: "He/Him",
