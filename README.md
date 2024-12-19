@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=76EEC6&vColor=76EEC6&width=435&lines=Dhruv" alt="Dhruv Name">
+  <span style="color: #76EEC6; font-size: 24px;">dhruv</span>
 </p>
 
 <p align="center">
