@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=76EEC6&lines=Dhruv)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=76EEC6&vColor=76EEC6&width=435&lines=Eat.+Sleep.+Code.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=76EEC6&vColor=76EEC6&width=435&lines=Eat.+Sleep.+Code.+Repeat.)](https://git.io/typing-svg)
 
 ```javascript
 const dhruv = {
