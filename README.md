@@ -1,6 +1,5 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F752B7&width=435&lines=Hey+there!+I'm+Dhruv+Siwach;Coding+Enthusiast+and+Tech+Explorer;Passionate+about+AI+and+Web+Development;I+told+my+computer+I+needed+a+break%2C+now+it+won’t+stop+sending+me+Kit-Kats!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F752B7&vColor=8e44ad&width=435&lines=Hey+there!+I'm+Dhruv+Siwach;Coding+Enthusiast+and+Tech+Explorer;Passionate+about+AI+and+Web+Development;I+told+my+computer+I+needed+a+break%2C+now+it+won’t+stop+sending+me+Kit-Kats!)](https://git.io/typing-svg)
 
 ```javascript
 const dhruv = {
