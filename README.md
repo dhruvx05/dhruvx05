@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=76EEC6&vColor=76EEC6&width=435&lines=Dhruv" alt="Dhruv Name">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=76EEC6&vColor=76EEC6&width=435&lines=Eat.+Sleep.+Code.+Repeat." alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=76EEC6&vColor=76EEC6&width=435&lines=Eat.+Sleep.+Code.+Repeat." alt="Typing SVG">
+  <h1 style="color: #76EEC6;">Dhruv</h1>
 </p>
 
 ```javascript
