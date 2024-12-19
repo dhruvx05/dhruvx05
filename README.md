@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/dhruvx05">
-    <img src="URL_TO_YOUR_CUSTOM_IMAGE" alt="D H R U V" />
+    <img src="[URL_TO_YOUR_CUSTOM_IMAGE](https://img.shields.io/badge/dhruv?style=flat&logoColor=green
+)" alt="D H R U V" />
   </a>
 </p>
 
