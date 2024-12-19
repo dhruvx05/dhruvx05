@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&color=76EEC6&lines=Dhruv" alt="dhruv Name">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=76EEC6&lines=Dhruv" alt="dhruv Name">
 </p>
 
 
