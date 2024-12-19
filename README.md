@@ -11,5 +11,5 @@ const dhruv = {
         other: ["Linux", "OOP Concepts"],
     },
     currentFocus: "Exploring new technologies, enhancing my coding skills, and building impactful projects while diving deeper into AI and ML.",
-    funFact: "Convincing AI not to take over the world!"
+    funFact: "I told my computer I needed a break, now it won’t stop sending me Kit-Kats!"
 };
