@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/dhruvx05">
-    <img src="https://img.shields.io/badge/D%20H%20R%20U%20V-green" alt="dhruv" />
+    <img src="https://img.shields.io/badge/D%20H%20R%20U%20V-green?style=flat-square&logo=github&logoColor=white" alt="dhruv" />
   </a>
 </p>
 
