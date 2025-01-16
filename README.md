@@ -8,7 +8,8 @@
 
 ## About Me
 Hi there! 👋  
-I am Dhruv , a tech enthusiast passionate about **AI**, **Machine Learning**, **Web Dev**, and **Problem-Solving**. 
+### I am Dhruv ,
+a tech enthusiast passionate about **AI**, **Machine Learning**, **Web Dev**, and **Problem-Solving**. 
 I'm constantly exploring **new technologies**, sharpening my coding skills, and working on **impactful projects**.
 
 ---
