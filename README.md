@@ -7,8 +7,8 @@
 # My Profile 🚀
 
 ## About Me
-Hi there! 👋  
-### I am Dhruv ,
+  
+### Hi👋 I'm Dhruv Siwach,
 a tech enthusiast passionate about **AI**, **Machine Learning**, **Web Dev**, and **Problem-Solving**. 
 I'm constantly exploring **new technologies**, sharpening my coding skills, and working on **impactful projects**.
 
