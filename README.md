@@ -4,7 +4,7 @@
 </p>
 
 
-# Dhruv's Developer Profile 🚀
+# My Profile 🚀
 
 ## About Me
 Hi there! 👋  
