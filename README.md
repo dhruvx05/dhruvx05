@@ -29,6 +29,7 @@ I'm constantly exploring **new technologies**, sharpening my coding skills, and 
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### Other Tools & Concepts
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 - Object-Oriented Programming (OOP) Concepts  
 
