@@ -41,10 +41,6 @@ I'm always exploring **cutting-edge technologies**, leveling up my skills, and w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvx05&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvx05&theme=radical" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvx05&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
