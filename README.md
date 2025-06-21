@@ -8,15 +8,16 @@
 
 ## About Me
   
-### Hi👋 I'm Dhruv Siwach,
-a tech enthusiast passionate about **AI**, **Machine Learning**, **Web Dev**, and **Problem-Solving**. 
-I'm constantly exploring **new technologies**, sharpening my coding skills, and working on **impactful projects**.
+### Hi 👋 I'm Dhruv Siwach,
+
+A tech enthusiast passionate about **Artificial Intelligence**, **Machine Learning**, **Web Development**, and **Problem-Solving**.  
+I'm always exploring **cutting-edge technologies**, leveling up my skills, and working on **real-world, impactful projects** that make a difference.
 
 ---
 
 ## 🛠 Skills & Technologies
 
-### Programming Languages 
+### 👨‍💻 Programming Languages 
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
@@ -24,21 +25,18 @@ I'm constantly exploring **new technologies**, sharpening my coding skills, and 
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   
 
-### Databases
+### 🗄️ Databases
 - ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-### Other Tools & Concepts
+### 🔧 Tools & Frameworks
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-- Object-Oriented Programming (OOP) Concepts  
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Object-Oriented Programming (OOP)
 
 ---
-
-## 🌟 Current Focus
-I am diving deeper into **AI** and **ML**, enhancing my coding abilities, and seeking new technologies to build impactful solutions.
-
-
 
 ## 📊 GitHub Stats
 
@@ -49,11 +47,25 @@ I am diving deeper into **AI** and **ML**, enhancing my coding abilities, and se
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvx05&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+## 🌟 Current Focus
+
+🔍 Currently diving deeper into the realms of **AI & ML**, enhancing my software engineering foundations, and experimenting with creative **web solutions**.  
+🚀 Exploring project ideas that merge innovation with impact.
+
 ---
 
 ## 🎉 Fun Fact
-I'm on a mission to **convince AI not to take over the world!** 🤖🌍
+
+I'm on a mission to **convince AI not to take over the world!** 🤖🌍  
+(Maybe teach it to play fair in chess first... ♟️)
 
 ---
 
-Feel free to reach out if you want to collaborate, learn together, or discuss the latest **tech trends**!  
+## 🤝 Let's Connect
+
+🚀 Open to **collaborations**, **tech discussions**, or just sharing ideas.  
+💬 Feel free to reach out — let's build something awesome together!
+
