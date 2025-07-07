@@ -37,9 +37,7 @@ I'm always exploring **cutting-edge technologies**, leveling up my skills, and w
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvx05&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvx05&layout=compact&theme=tokyonight" />
 
 ---
 
