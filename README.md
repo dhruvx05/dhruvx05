@@ -24,10 +24,6 @@ I'm always exploring **cutting-edge technologies**, leveling up my skills, and w
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   
 
-### 🔧 Tools & Frameworks
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🗄️ Databases
 - ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
