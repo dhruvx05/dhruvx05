@@ -1,7 +1,7 @@
 <h1 align="center">~ Heyy, I'm Dhruv Siwach... ~</h1>
 
 <p align="center">
-  <img src="./obito.png" alt="Obito Pixel Art" width="130" />
+  <img src="./obito.png" alt="Obito Pixel Art" width="100" />
 </p>
 
 <p align="center">
