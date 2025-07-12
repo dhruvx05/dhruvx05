@@ -56,3 +56,24 @@ I explore **cutting-edge technologies**, break things intentionally (sometimes u
 
 ## 🌟 Current Focus
 
+🔍 Deep-diving into AI & ML
+💻 Leveling up full-stack skills
+⚙️ Engineering scalable backend systems
+🎯 Crafting pixel-perfect, intelligent UIs
+
+
+---
+
+## 🎉 Fun Fact
+
+> I'm on a mission to **convince AI not to take over the world!** 🤖🌍  
+> _(First step: teach it to play fair in chess ♟️)_
+
+
+---
+
+## 🧬 Final Echo
+
+> *"Code is poetry. Machine is canvas. Bugs are plot twists."*  
+> *— Compiling creativity... please stand by 💾*
+
