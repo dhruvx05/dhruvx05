@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Eat.%20Sleep.%20Code.%20Repeat&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Eat.%20Sleep.%20Code.%20Repeat&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=28" />
 </p>
 
-<h1 align="center"><code>🔮 System Online: Hello, I'm Dhruv Siwach 🧠💻</code></h1>
+<h1 align="center"><code>🔮 System Online: Hello, I'm Dhruv Siwach...</code></h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvx05&label=VISITORS&color=f75c7e&style=flat" alt="dhruvx05" />
-</p>
 
 ---
 
@@ -42,11 +39,6 @@ I explore **cutting-edge technologies**, break things intentionally (sometimes u
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvx05&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvx05&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvx05&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
