@@ -9,17 +9,9 @@
 </p>
 
 ## 🚀 About Me:
-A passionate tech enthusiast with a strong focus on **Artificial Intelligence & Machine Learning**,  
-along with interests in **Web Development**, **Data Structures & Algorithms**,  
-and creative problem solving.  
 
-Currently leveling up my skills through hands-on projects, consistent practice,  
-and an endless curiosity for new technologies — all while growing through  
-college experiences and beyond.
-
-
-I explore **cutting-edge technologies**, break things intentionally (sometimes unintentionally 😅), and love bringing ideas to life through code.
-
+A passionate tech enthusiast with a strong focus on *AI & Machine Learning*, along with interests in *Web Development, DSA, and Creative Problem Solving.*  
+Currently leveling up my skills through hands-on projects, college exploration, and a constant drive to learn and grow in both tech and life.
 ---
 
 ## 🛠️ Skills & Tech Stack
