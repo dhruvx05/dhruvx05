@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Eat.%20Sleep.%20Code.%20Repeat&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=28" />
-</p>
-
 <h1 align="center">~ Heyy, I'm Dhruv Siwach... ~</h1>
 
 <p align="center">
   <img src="./obito.png" alt="Obito Pixel Art" width="130" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Eat.%20Sleep.%20Code.%20Repeat&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=28" />
+</p>
 
 ## 🚀 About Me
 
