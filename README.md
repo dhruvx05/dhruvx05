@@ -16,9 +16,39 @@ Currently leveling up my skills through hands-on projects, college exploration, 
 ---
 ## 🛠️ Skills & Tech Stack
 
-| 👨‍💻 Languages | 🗄️ Databases | 🔃 Version Control |
-|--------------|--------------|--------------------|
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)<br>![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+<p align="center">
+  
+<table align="center">
+  <thead>
+    <tr>
+      <th>👨‍💻 Languages</th>
+      <th>🗄️ Databases</th>
+      <th>🔃 Version Control</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</p>
 
 ---
 
