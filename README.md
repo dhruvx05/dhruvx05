@@ -5,7 +5,10 @@
 <h1 align="center"><code>🔮 System Online: Hello, I'm Dhruv Siwach...</code></h1>
 
 
----
+<p align="center">
+  <img src="DIRECT_GIF_URL" alt="Retro anime guy adjusting shades" width="200" />
+</p>
+
 
 ## 🚀 About Me
 
