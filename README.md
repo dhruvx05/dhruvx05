@@ -10,8 +10,8 @@
 
 ## 🚀 About Me:)
 
-A passionate tech enthusiast with a strong focus on AI and Machine Learning, along with interests in web development, DSA, and creative problem solving.  
-Currently leveling up my skills through hands-on projects, college exploration, and a constant drive to learn and grow in both tech and life...
+- A passionate tech enthusiast with a strong focus on AI and Machine Learning, along with interests in web development, DSA, and creative problem solving.  
+- Currently leveling up my skills through hands-on projects, college exploration, and a constant drive to learn and grow in both tech and life...
 
 ---
 ## 🛠️ Skills & Tech Stack
