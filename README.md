@@ -6,8 +6,9 @@
 
 
 <p align="center">
-  <img src="DIRECT_GIF_URL" alt="Retro anime guy adjusting shades" width="200" />
+  <img src="https://media.giphy.com/media/11LJpRZQblHhNS/giphy.gif" alt="Naruto Rasengan" width="300" />
 </p>
+
 
 
 ## 🚀 About Me
