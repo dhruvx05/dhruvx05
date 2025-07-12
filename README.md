@@ -5,7 +5,7 @@
 <h1 align="center"><code>🔮 System Online: Hello, I'm Dhruv Siwach...</code></h1>
 
 <p align="center">
-  <img src="https://www.pngkey.com/png/full/98-987242_itachi-uchiha-in-my-style-pixel-art.png" alt="Itachi Uchiha Pixel Art" width="200" />
+  <img src="C:\Users\dhruv\Downloads\pngkey.com-itachi-png-1110200.png" alt="Naruto Pixel Art" width="200" />
 </p>
 
 
