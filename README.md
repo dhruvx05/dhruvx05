@@ -6,8 +6,9 @@
 
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/your-username/repo-name/path-to-your-rasengan.png" alt="Rasengan" width="150" />
+  <img src="DIRECT_IMAGE_URL" alt="8‑bit Naruto sticker" width="200" />
 </p>
+
 
 
 ## 🚀 About Me
