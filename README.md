@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Eat.%20Sleep.%20Code.%20Repeat&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhruv Siwach</h1>
+<h1 align="center"><code>System Online: Welcome, I'm Dhruv Siwach 🧠💻</code></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvx05&label=Profile+Views&color=f75c7e&style=flat" alt="dhruvx05" />
@@ -17,7 +17,7 @@
 🧠 Keen **Problem-Solver**  
 ⚡ Always building **real-world, impactful projects**
 
-I'm constantly exploring **cutting-edge technologies**, pushing limits, and crafting digital solutions that matter.
+I explore **cutting-edge technologies**, break things intentionally (sometimes unintentionally 😅), and love bringing ideas to life through code.
 
 ---
 
@@ -31,53 +31,51 @@ I'm constantly exploring **cutting-edge technologies**, pushing limits, and craf
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Frameworks & Tools  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🔃 Version Control & Collaboration  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvx05&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvx05&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvx05&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvx05&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvx05&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvx05&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
 
 ## 🌟 Current Focus
 
-🔍 Deep-diving into **AI & ML**,  
-💻 Enhancing **software engineering** skills,  
-🧪 Building **creative full-stack projects**,  
-🌐 Merging **innovation with impact**
+
+---
+
+> 🧠 *“Strive not to be a success, but rather to be of value.” — Albert Einstein*
+
+
+
 
 ---
 
 ## 🎉 Fun Fact
 
-I'm on a mission to **convince AI not to take over the world!** 🤖🌍  
-(Maybe teach it to play fair in chess first... ♟️)
+> I'm on a mission to **convince AI not to take over the world!** 🤖🌍  
+> _(Maybe teach it to play fair in chess first... ♟️)_
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/dhruvswach/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -94,5 +92,5 @@ I'm on a mission to **convince AI not to take over the world!** 🤖🌍
 
 ---
 
-> 🧠 *“Strive not to be a success, but rather to be of value.” — Albert Einstein*
+> 🧬 *"Code is poetry. Machine is canvas. Bugs are plot twists."*
 
