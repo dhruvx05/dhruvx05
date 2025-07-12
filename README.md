@@ -40,18 +40,13 @@ Currently leveling up my skills through hands-on projects, college exploration, 
 
 ## 🌟 Current Focus
 
-🧠 Advancing in **AI & Machine Learning** — models, vision, and NLP  
-🌐 Sharpening **Web Development** — full-stack builds with real-world impact  
-🧩 Mastering **DSA & Problem Solving** — one challenge at a time  
-🚀 Continuously **skilling up with new technologies** — staying ahead of the curve
-
+I'm currently focused on advancing my knowledge in **AI & Machine Learning**, including models, computer vision, and NLP. Alongside, I'm sharpening my skills in **Web Development**, mastering **Data Structures & Algorithms** through consistent problem-solving, and always exploring **new technologies** to stay ahead in the tech world.
 
 ---
 
 ## 💡 Fun Fact
 
 > _Respawning after every crash — that’s real dev energy 🔁💥_
-
 
 ---
 
@@ -66,4 +61,3 @@ Currently leveling up my skills through hands-on projects, college exploration, 
   <br />
   <img src="https://capsule-render.vercel.app/api?type=rect&color=f75c7e&height=1"/>
 </div>
-
