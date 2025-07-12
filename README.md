@@ -6,9 +6,8 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/11LJpRZQblHhNS/giphy.gif" alt="Naruto Rasengan" width="300" />
+  <img src="https://cdn.jsdelivr.net/gh/your-username/repo-name/path-to-your-rasengan.png" alt="Rasengan" width="150" />
 </p>
-
 
 
 ## 🚀 About Me
