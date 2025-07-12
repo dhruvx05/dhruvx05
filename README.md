@@ -5,7 +5,7 @@
 <h1 align="center"><code>🔮 System Online: Hello, I'm Dhruv Siwach...</code></h1>
 
 <p align="center">
-  <img src="./pngkey.com-itachi-png-1110200.png" alt="Itachi Pixel Art" width="150" />
+  <img src="./pngkey.com-itachi-png-1110200.png" alt="Itachi Pixel Art" width="165" />
 </p>
 
 
