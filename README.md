@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Eat.%20Sleep.%20Code.%20Repeat&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=28" />
 </p>
 
-<h1 align="center"><code>🔮 𝒮𝓎𝓈𝓉𝑒𝓂 𝒪𝓃𝓁𝒾𝓃𝑒: 𝐻𝑒𝓁𝓁𝑜, 𝐼'𝓂 𝒟𝒽𝓇𝓊𝓋 𝒮𝒾𝓌𝒶𝒸𝒽...</code></h1>
+<h1 align="center"><code>🔮 𝒮𝓎𝓈𝓉𝑒𝓂 𝒪𝓃𝓁𝒾𝓃𝑒: 𝐻𝑒𝓁𝓁𝑜, 𝐼'𝓂 Dhruv Siwach...</code></h1>
 
 <p align="center">
   <img src="./obito.png" alt="Obito Pixel Art" width="130" />
