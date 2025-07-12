@@ -66,12 +66,21 @@ I explore **cutting-edge technologies**, break things intentionally (sometimes u
 ## 🎉 Fun Fact
 
 <details>
-<summary><strong>🤖 Click to Reveal</strong></summary>
+<summary><strong>🤖 Click to Reveal a Random System Log</strong></summary>
 
-> I'm on a mission to **convince AI not to take over the world!** 🤖🌍  
-> _(First step: teach it to play fair in chess ♟️)_
+- I'm on a mission to **convince AI not to take over the world** 🤖🌍  
+- I once debugged for 3 hours... the problem? A missing semicolon 😵‍💫  
+- Coffee + Dark Mode = Instant Productivity ☕🌑  
+- My keyboard probably types `git commit` in its sleep 💻😴  
+- Respawning after every crash — that’s real dev energy 🔁💥 
+- Still trying to teach AI how not to rage-quit chess ♟️🔥
+- Every 404 is a jump scare 😱🧟‍♂️
+- Coffee = HP Potion ☕❤️
+- My repo name should be: rage-quit-simulator 😂
+- Nah, I'd WIN!
 
 </details>
+
 
 ---
 
