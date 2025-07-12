@@ -8,12 +8,15 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Eat.%20Sleep.%20Code.%20Repeat&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=28" />
 </p>
 
-## 🚀 About Me
+## 🚀 About Me:
+A passionate tech enthusiast with a strong focus on **Artificial Intelligence & Machine Learning**,  
+along with interests in **Web Development**, **Data Structures & Algorithms**,  
+and creative problem solving.  
 
-🎓 A passionate **AI & ML Enthusiast**  
-🌐 Curious **Web Developer**  
-🧠 Keen **Problem-Solver**  
-⚡ Always building **real-world, impactful projects**
+Currently leveling up my skills through hands-on projects, consistent practice,  
+and an endless curiosity for new technologies — all while growing through  
+college experiences and beyond.
+
 
 I explore **cutting-edge technologies**, break things intentionally (sometimes unintentionally 😅), and love bringing ideas to life through code.
 
