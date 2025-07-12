@@ -5,8 +5,9 @@
 <h1 align="center"><code>🔮 System Online: Hello, I'm Dhruv Siwach...</code></h1>
 
 <p align="center">
-  <img src="https://www.pngmart.com/files/22/Naruto-Pixel-Art-PNG.png" alt="8-bit Naruto sprite" width="200" />
+  <img src="https://i.imgur.com/3g7nodX.png" alt="Naruto Pixel Art" width="200" />
 </p>
+
 
 ## 🚀 About Me
 
