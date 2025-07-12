@@ -56,16 +56,16 @@ I explore **cutting-edge technologies**, break things intentionally (sometimes u
 
 ## 🌟 Current Focus
 
-🔍 Deep-diving into AI & ML  
-💻 Leveling up full-stack skills  
-⚙️ Engineering scalable backend systems  
-🎯 Crafting pixel-perfect, intelligent UIs
+🧠 Advancing in **AI & Machine Learning** — models, vision, and NLP  
+🌐 Sharpening **Web Development** — full-stack builds with real-world impact  
+🧩 Mastering **DSA & Problem Solving** — one challenge at a time  
+🚀 Continuously **skilling up with new technologies** — staying ahead of the curve
+
 
 ---
 
-## 🎉 Fun Fact
+## 💡 Fun Fact
 
-> 💡 **Fun Fact of the Day:**  
 > _Respawning after every crash — that’s real dev energy 🔁💥_
 
 
