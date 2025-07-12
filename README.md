@@ -6,9 +6,8 @@
 
 
 <p align="center">
-  <img src="DIRECT_IMAGE_URL" alt="8‑bit Naruto sticker" width="200" />
+  <img src="https://www.pngfind.com/mpng/ibiRhxi_naruto-naruto-rasengan-pixel-art-hd-png-download/" alt="8‑bit Naruto Rasengan sticker" width="200" />
 </p>
-
 
 
 ## 🚀 About Me
