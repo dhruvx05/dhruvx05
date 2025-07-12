@@ -5,7 +5,7 @@
 <h1 align="center"><code>🔮 System Online: Hello, I'm Dhruv Siwach...</code></h1>
 
 <p align="center">
-  <img src="https://images.vhv.rs/viewpic/NVoiR3icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw52znFzryiuyg8MyygwzsjIzQ_Nz3NPzHJ2M0jSdSsyLvSJMAkNNQrIMQzKiEouT4koKSwwTjMJNjcNKVcrBgAzmiox" alt="8-bit Naruto sticker" width="200" />
+  <img src="https://www.pngkey.com/png/detail/9-98701_naruto-resengon-naruto-pixel-art.png" alt="Naruto Rasengan sticker" width="200" />
 </p>
 
 
