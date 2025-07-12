@@ -5,7 +5,7 @@
 <h1 align="center"><code>🔮 System Online: Hello, I'm Dhruv Siwach...</code></h1>
 
 <p align="center">
-  <img src="./obito.png" alt="Obito Pixel Art" width="200" />
+  <img src="./obito.png" alt="Obito Pixel Art" width="130" />
 </p>
 
 
