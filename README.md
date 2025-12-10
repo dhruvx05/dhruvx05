@@ -30,14 +30,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvx05&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
 ## 🌟 Current Focus
 
 I'm currently focused on advancing my knowledge in **AI & Machine Learning**, including models, computer vision, and NLP. Alongside, I'm sharpening my skills in **Web Development**, mastering **Data Structures & Algorithms** through consistent problem-solving, and always exploring **new technologies** to stay ahead in the tech world.
