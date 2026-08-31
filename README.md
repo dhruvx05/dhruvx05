@@ -93,30 +93,6 @@ I'm exploring **LLMs, RAG pipelines, Agentic AI, Computer Vision, NLP, backend a
 🚀 Engineering         → Docker • CI/CD • Testing
 ```
 
----
-
-## 🏆 Highlights
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/450%2B-LeetCode%20Problems-f75c7e?style=for-the-badge&logo=leetcode&logoColor=white" />
-
-<img src="https://img.shields.io/badge/250K%2B-Network%20Flows-f75c7e?style=for-the-badge&logo=databricks&logoColor=white" />
-
-<img src="https://img.shields.io/badge/15--18%25-BLEU%20Improvement-f75c7e?style=for-the-badge" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/24-Test%20CI%20Suite-f75c7e?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/5%2B-Full--Stack%20Modules-f75c7e?style=for-the-badge" />
-
-</p>
-
----
-
 ## 💡 Fun Fact
 
 > *Respawning after every crash — that's real dev energy 🔁💥*
